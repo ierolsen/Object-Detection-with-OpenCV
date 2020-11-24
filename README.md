@@ -84,3 +84,7 @@ I want to print coordinators etc. in the screen
 # print inform
 cv2.putText(imgOriginal, s, (25, 50), cv2.FONT_HERSHEY_COMPLEX_SMALL, 1, (255, 255, 255), 2)
 ```
+
+And Final:
+
+![detected_img](https://user-images.githubusercontent.com/30235603/100146802-bca98680-2e9a-11eb-9406-5e8a41b175df.png)
