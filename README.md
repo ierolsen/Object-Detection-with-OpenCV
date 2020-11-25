@@ -89,6 +89,6 @@ And Final:
 
 ![detected_img](https://user-images.githubusercontent.com/30235603/100146802-bca98680-2e9a-11eb-9406-5e8a41b175df.png)
 
-![detected2_img](https://user-images.githubusercontent.com/30235603/100214408-257f1600-2f10-11eb-871e-743ead2e50b0.png)
+![detected2_img](https://user-images.githubusercontent.com/30235603/100215792-c0c4bb00-2f11-11eb-9c50-ab206fafbb62.png)
 
 ___
