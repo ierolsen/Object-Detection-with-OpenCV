@@ -8,6 +8,7 @@ Firstly, I started with Edge Detection, Corner Detection and then Colorful Objec
 Here, I am going to explain some important topics:
 
 1- [Object Detection with Color](https://github.com/ierolsen/Object-Detection-with-OpenCV/blob/main/4-object-detection-with-color.py)
+
 2- [Watershed](https://github.com/ierolsen/Object-Detection-with-OpenCV/blob/main/7-watershed.ipynb)
 
 You can find explanations below.
