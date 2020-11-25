@@ -1,6 +1,6 @@
 # Object Detection with OpenCV
 
-In this repo, I've worked on Object Detection with OpenCV, I've just aimed to get coordinators, width and height of object using traditional OpenCV algoritms, so this repo doesn't contain what that objects are. 
+In this repo, I've worked on Object Detection with OpenCV, I've just aimed to get coordinates, width and height of object using traditional OpenCV algoritms, so this repo doesn't contain what that objects are. 
 Firstly, I started with Edge Detection, Corner Detection and then Colorful Object Detection.
 
 ---
