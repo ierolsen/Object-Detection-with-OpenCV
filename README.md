@@ -108,15 +108,25 @@ And Final:
 Previously, I worked on Object Detection algorithm and I make detected coordinaters, rotations and dimension of objects. This project is about Watershed. Basically Watershed algoritm is used for seperating the other objects in image. After apply this algorithm, I need to apply some Low-Pass Filtering and Morphological Operations deu to determine area and edge of objects.
 
 ### In Watershed Algoritm, I will apply this techniques:
+ 
  1- **Median Blurring**
+ 
  2- **Gray Scale**
+ 
  3- **Binary Threshold**
+ 
  4- **Opening**
+ 
  5- **Distance Transform**
+ 
  6- **Threshold for foreground**
+ 
  7- **Dilation for enlarging image to use for background**
+ 
  8- **Connected Components**
+ 
  9- **Watershed**
+ 
  10- **Find and Draw Contours around of objects**
  
 I'll explain these subjects again when I explain code cells.
